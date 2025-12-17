@@ -1,0 +1,12 @@
+[generic] Extracting URL: (youtbe_subcribe_claude)
+[generic] Extracting URL: (base)
+[generic] Extracting URL: F:\youtbe_subcribe_claude
+[generic] F:\youtbe_subcribe_claude: Downloading webpage
+[TikTok] Extracting URL: https://www.tiktok.com/@mohsinrajaback/video/7577311250833476884
+[TikTok] 7577311250833476884: Downloading webpage
+[info] Available formats for 7577311250833476884:
+ID                 EXT RESOLUTION |   FILESIZE  TBR PROTO | VCODEC ACODEC MORE INFO
+-------------------------------------------------------------------------------------
+download           mp4 unknown    |                 https | h264   aac    watermarked
+h264_540p_426285-0 mp4 576x1024   |  873.65KiB 426k https | h264   aac
+h264_540p_426285-1 mp4 576x1024   |  873.65KiB 426k https | h264   aac
