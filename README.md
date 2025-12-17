@@ -14,8 +14,8 @@ A powerful, production-ready FastAPI application for downloading videos from **Y
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone https://github.com/your-username/youtbe_subcribe_claude.git
-    cd youtbe_subcribe_claude
+    git clone https://github.com/Khalil-Haider/Universal_OnLine_Platform_Video_Downloader_FASTAPI.git
+    cd Universal_OnLine_Platform_Video_Downloader_FASTAPI
     ```
 
 2.  **Install dependencies**:
